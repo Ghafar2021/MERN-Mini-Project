@@ -23,6 +23,14 @@
       alt="MongoDB Logo"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank">
+   <img
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    width="200"
+    alt="React Logo"
+    />
+  </a>
 </p>
 
  
@@ -34,6 +42,7 @@
  
  to run App:
  npm run dev 
+
 
 
 
